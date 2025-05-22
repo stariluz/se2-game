@@ -1,0 +1,133 @@
+@import url('https://fonts.googleapis.com/css2?family=Tagesschrift&display=swap');
+*{
+  box-sizing: border-box;
+  font-family: "Tagesschrift", system-ui;
+}
+:root{
+  font-size: 20px;
+  color: white;
+}
+html{
+  font-weight: 400;
+  font-style: normal;
+}
+html, body{
+  margin: 0;
+  padding: 0;
+  background-color: rgb(17, 17, 17);
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+main{
+  margin: auto;
+  width: 568px;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  background-color: rgb(29, 29, 29);
+  padding: 2rem 1.5rem;
+}
+button{
+  color: white;
+}
+h1,h2,h3,h4,h5,h6,p{
+  margin: 0;
+}
+.home{
+  height: 100%;
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+}
+.card{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+  border: none;
+  outline: none;
+  border-radius: 8px;
+  background-color: #ff305a;
+  box-shadow: 0px 2px 10px -4px #ff305a,
+  inset -4px 2px 8px pink;
+  font-weight: 700;
+  font-size: 1rem;
+}
+
+.card.card-option{
+  font-size: 0.75rem;
+}
+.card.card-option:active,
+.card.card-option.selected{
+  font-size: 0.75rem;
+  background-color: #ab22c0;
+  box-shadow: 0px 2px 10px -4px #ab22c0,
+  inset -4px 2px 8px #f6baff;
+}
+
+.card.card-option.is-correct{
+  background-color: #27deaa;
+  box-shadow: 0px 2px 10px -4px #27deaa,
+  inset -4px 2px 8px #c7fced;
+}
+
+.card.card-option.is-wrong{
+  background-color: #1e1e1e;
+  box-shadow: 0px 2px 10px -4px #1e1e1e,
+  inset -4px 2px 8px #3b3b3b;
+}
+
+.quiz{
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  gap: 0.5rem
+}
+.quiz>*:last-child{
+ height: 100%;
+}
+.options{
+  width: 100%;
+  height: 100%;
+  display: grid;
+  gap: 0.5rem;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+}
+
+.footer{
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  gap: 0.5rem;
+  width: 100%;
+}
+.btn{
+  display: flex;
+  align-items: center;
+  justify-content: center ;
+  width: 100%;
+  padding: 0.5rem 1rem;
+  border-radius: 0.5rem;
+  background-color: rgb(111, 204, 74);
+}
+.answer{
+  font-size: 0.75rem;
+  width: 100%;
+}
+.results{
+  
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  gap: 0.5rem
+}

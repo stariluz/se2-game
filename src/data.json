@@ -1,0 +1,252 @@
+[
+  {
+    "name": "MoProSoft",
+    "questions": [
+      {
+        "question": "¿Cuál es el objetivo principal de MoProSoft?",
+        "options": [
+          "Controlar presupuestos de software",
+          "Proveer un marco de mejora de procesos para la industria mexicana de software",
+          "Capacitar en programación",
+          "Automatizar el ciclo de vida del software"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "¿Cuántos niveles de procesos tiene MoProSoft?",
+        "options": ["1", "2", "3", "4"],
+        "correctIndex": 2
+      },
+      {
+        "question": "MoProSoft fue desarrollado principalmente para:",
+        "options": [
+          "Empresas grandes",
+          "Instituciones gubernamentales",
+          "Pymes mexicanas de desarrollo de software",
+          "Escuelas técnicas"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "question": "¿Qué nivel de proceso se enfoca en la Dirección en MoProSoft?",
+        "options": ["Nivel Operativo", "Nivel Gerencial", "Nivel de Dirección", "Nivel Estratégico"],
+        "correctIndex": 2
+      },
+      {
+        "question": "¿Cuál de los siguientes es un proceso de soporte en MoProSoft?",
+        "options": ["Gestión del Proyecto", "Gestión de Recursos Humanos", "Aseguramiento de Calidad", "Desarrollo de Requisitos"],
+        "correctIndex": 2
+      },
+      {
+        "question": "¿MoProSoft está alineado con qué norma internacional?",
+        "options": ["ISO 12207", "CMMI Nivel 3", "IEEE 830", "ISO 9001"],
+        "correctIndex": 0
+      },
+      {
+        "question": "¿Qué tipo de procesos existen en MoProSoft?",
+        "options": ["Estratégicos, Tácticos y Operativos", "Gerenciales y Técnicos", "Primarios y de Apoyo", "Administrativos y Productivos"],
+        "correctIndex": 0
+      },
+      {
+        "question": "MoProSoft promueve la mejora:",
+        "options": ["Estática", "Contínua", "Temporal", "Ocasional"],
+        "correctIndex": 1
+      },
+      {
+        "question": "¿Qué proceso gestiona la relación con el cliente en MoProSoft?",
+        "options": ["Gestión del Negocio", "Gestión de Requerimientos", "Gestión de la Relación con el Cliente", "Gestión de Calidad"],
+        "correctIndex": 2
+      },
+      {
+        "question": "¿En qué año se lanzó MoProSoft oficialmente?",
+        "options": ["2003", "2005", "2008", "2010"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  {
+    "name": "CMMI",
+    "questions": [
+      {
+        "question": "¿Qué significa CMMI?",
+        "options": [
+          "Computer Model Management Initiative",
+          "Capability Maturity Model Integration",
+          "Certified Model for Management Improvement",
+          "Control Maturity Method Integration"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "question": "¿Cuántos niveles de madurez tiene CMMI?",
+        "options": ["3", "5", "6", "4"],
+        "correctIndex": 1
+      },
+      {
+        "question": "¿Cuál es el nivel más alto de madurez en CMMI?",
+        "options": ["Optimizado", "Gestionado", "Definido", "Inicial"],
+        "correctIndex": 0
+      },
+      {
+        "question": "CMMI fue desarrollado por:",
+        "options": ["SEI", "IEEE", "ISO", "OMG"],
+        "correctIndex": 0
+      },
+      {
+        "question": "¿Qué nivel en CMMI se caracteriza por procesos estandarizados?",
+        "options": ["Nivel 2", "Nivel 3", "Nivel 4", "Nivel 5"],
+        "correctIndex": 1
+      },
+      {
+        "question": "CMMI es útil principalmente para:",
+        "options": [
+          "Mejorar la calidad del producto y del proceso",
+          "Aumentar la velocidad de desarrollo",
+          "Reducir los costos operativos",
+          "Incrementar las ventas"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "question": "¿Cuál de las siguientes áreas pertenece a CMMI?",
+        "options": ["Gestión de la Configuración", "Programación de Objetos", "Análisis Financiero", "Planificación de Infraestructura"],
+        "correctIndex": 0
+      },
+      {
+        "question": "El nivel 1 en CMMI se denomina:",
+        "options": ["Definido", "Inicial", "Gestionado", "Optimizado"],
+        "correctIndex": 1
+      },
+      {
+        "question": "¿CMMI se aplica sólo al desarrollo de software?",
+        "options": ["Sí", "No", "Sólo en empresas grandes", "Sólo en empresas gubernamentales"],
+        "correctIndex": 1
+      },
+      {
+        "question": "¿Qué versión de CMMI integra múltiples disciplinas?",
+        "options": ["CMMI-SW", "CMMI-DEV", "CMMI V2.0", "CMMI-INT"],
+        "correctIndex": 2
+      }
+    ]
+  },
+  {
+    "name": "TSP",
+    "questions": [
+      {
+        "question": "¿Qué significa TSP?",
+        "options": [
+          "Team Software Process",
+          "Technical Software Plan",
+          "Total Software Process",
+          "Typical Software Project"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "question": "TSP fue desarrollado por:",
+        "options": ["Watts Humphrey", "Kent Beck", "Steve McConnell", "Barry Boehm"],
+        "correctIndex": 0
+      },
+      {
+        "question": "El objetivo de TSP es:",
+        "options": ["Medir costos", "Guiar a los equipos en la producción de software de calidad", "Controlar recursos físicos", "Dirigir empresas de TI"],
+        "correctIndex": 1
+      },
+      {
+        "question": "Una característica clave de TSP es:",
+        "options": ["Trabajo individual", "Enfoque en equipo", "Programación funcional", "Reducción de hardware"],
+        "correctIndex": 1
+      },
+      {
+        "question": "¿Qué rol existe dentro de TSP?",
+        "options": ["Coach", "Jefe de Ventas", "Diseñador Principal", "Tester Manual"],
+        "correctIndex": 0
+      },
+      {
+        "question": "TSP promueve:",
+        "options": ["Independencia individual", "Colaboración de equipo y planificación rigurosa", "Desarrollo sin documentación", "Uso exclusivo de software libre"],
+        "correctIndex": 1
+      },
+      {
+        "question": "Una práctica común en TSP es:",
+        "options": ["Evaluación de desempeño académico", "Seguimiento de métricas de calidad", "Venta de servicios en línea", "Contratación de personal externo"],
+        "correctIndex": 1
+      },
+      {
+        "question": "¿Qué se necesita para iniciar un proyecto con TSP?",
+        "options": ["Plantilla de requerimientos", "Liderazgo y entrenamiento", "Software de terceros", "Base de datos en la nube"],
+        "correctIndex": 1
+      },
+      {
+        "question": "¿Cuál es una ventaja de usar TSP?",
+        "options": ["Mayor dependencia externa", "Procesos no definidos", "Mejor calidad del producto", "Menor trabajo en equipo"],
+        "correctIndex": 2
+      },
+      {
+        "question": "TSP trabaja en conjunto con:",
+        "options": ["SCRUM", "ISO 27001", "PSP", "CMMI"],
+        "correctIndex": 2
+      }
+    ]
+  },
+  {
+    "name": "PSP",
+    "questions": [
+      {
+        "question": "¿Qué significa PSP?",
+        "options": [
+          "Personal Software Process",
+          "Professional Software Plan",
+          "Private Software Product",
+          "Public Software Process"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "question": "El creador del PSP fue:",
+        "options": ["Watts Humphrey", "Frederick Brooks", "Alan Turing", "Linus Torvalds"],
+        "correctIndex": 0
+      },
+      {
+        "question": "El PSP se enfoca en:",
+        "options": ["Procesos de empresas", "Desempeño individual del desarrollador", "Planes de negocios", "Marketing de software"],
+        "correctIndex": 1
+      },
+      {
+        "question": "¿Cuál es una actividad clave del PSP?",
+        "options": ["Control financiero", "Medición del tiempo y defectos", "Supervisión de hardware", "Rediseño de interfaces"],
+        "correctIndex": 1
+      },
+      {
+        "question": "¿Qué fomenta el PSP en el desarrollador?",
+        "options": ["Dependencia del equipo", "Desorganización", "Autodisciplina", "Desinterés por la calidad"],
+        "correctIndex": 2
+      },
+      {
+        "question": "PSP ayuda a:",
+        "options": ["Reducir calidad", "Aumentar errores", "Mejorar estimaciones y calidad", "Depender del equipo"],
+        "correctIndex": 2
+      },
+      {
+        "question": "El uso de métricas en PSP permite:",
+        "options": ["Evaluar únicamente la velocidad", "Ignorar la calidad", "Medir rendimiento y mejorar procesos", "Evitar la documentación"],
+        "correctIndex": 2
+      },
+      {
+        "question": "Una herramienta típica de PSP es:",
+        "options": ["Análisis FODA", "Planificación Personal", "ERP", "CRM"],
+        "correctIndex": 1
+      },
+      {
+        "question": "PSP puede integrarse con:",
+        "options": ["Marketing digital", "Desarrollo de hardware", "TSP", "Análisis financiero"],
+        "correctIndex": 2
+      },
+      {
+        "question": "¿Qué aspecto no es parte del PSP?",
+        "options": ["Registro de tiempo", "Planificación personal", "Diseño personal", "Publicidad en redes"],
+        "correctIndex": 3
+      }
+    ]
+  }
+]
