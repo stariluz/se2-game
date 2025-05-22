@@ -4,7 +4,7 @@
   font-family: "Tagesschrift", system-ui;
 }
 :root{
-  font-size: 20px;
+  font-size: 24px;
   color: white;
 }
 html{
@@ -21,7 +21,7 @@ html, body{
 }
 main{
   margin: auto;
-  width: 568px;
+  width: 658px;
   height: 100%;
   display: flex;
   flex-direction: column;
@@ -110,9 +110,10 @@ h1,h2,h3,h4,h5,h6,p{
   width: 100%;
 }
 .btn{
+  font-size: 0.75rem;
   display: flex;
   align-items: center;
-  justify-content: center ;
+  justify-content: center;
   width: 100%;
   padding: 0.5rem 1rem;
   border-radius: 0.5rem;
@@ -123,7 +124,6 @@ h1,h2,h3,h4,h5,h6,p{
   width: 100%;
 }
 .results{
-  
   height: 100%;
   display: flex;
   flex-direction: column;
